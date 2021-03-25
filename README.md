@@ -1,4 +1,4 @@
-<h1 align='center'>Glass Cal</h1>
+<h1 align='center'>Glassmorphed Calculator</h1>
 
 <img src='Glass-calc.gif' />
 
