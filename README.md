@@ -2,7 +2,7 @@
 
 <img src='Glass-calc.gif' />
 
-<p align='center'>A calculator made up of glassmorphism using vanila-tilt javascript library (reference - Youtube)</p>
+<p align='center'>A glassmorphed calculator made up of vanila-tilt javascript library (reference - Youtube)</p>
 
 ### Starting in a local system
 
